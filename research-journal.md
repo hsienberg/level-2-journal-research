@@ -55,5 +55,21 @@ I expected the model or the code to run properly but it encountered a runtime er
 ### What I Found
 I found out that I need to reduce some memory limits and some authentication that needs to be fixed before the idea of Disease Detectives come to life. 
 
+
+
+### Week [5] — [Developing Side Spaces + Debugging]
+
+### This Week's Method
+We tried to code for a space using Claude or any AI model that will put our thoughts into a Hugging Face Space. You can talk to Claude, for example, and it will generate some Python code that you can insert into the HuggingFace spaces.  I created numerous programs  such as medical Entity Extractor, Medical Text Generator, and a Dictonary. I used Claude and inputted my thinking into the generative AI textbox. It then sputed out a code which I had to debug before inputting it inside my Space.
+
+### How I Applied It
+I am interested in the medical field currently and I personally created all of these generators/extractors to help me diagnose some diseases. I am a very paranoid person so I plug into diseases all the time in this. I can improve this further to be more specific later on. 
+
+### What I Expected
+I expected the model or the code to run properly to be a little more not that vivid because the Medical Text Generator gave me a very vivid color and highlighted any word that "stood out". It did not really meet what I really wanted since I wanted something that can detect words that are actually helpful and not also detect trash words. 
+
+### What I Found
+I found out that AI is very faulty and we need to keep improving if we want it to be the best specific thing. 
+
 ### Why I Think This Happened
-I think that Python encountered a runtime error because of the library for python on Hugging Space is too small so I have to adapt to it by reducing things such as CPU running and authentication. 
+I think that I did not really specify enough to make the AI meet my needs and it was just a baseline that I created. I feel like next time I should give it a deeper analysis and what I want so it can spit what I am expecting. 
